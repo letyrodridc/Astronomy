@@ -1,3 +1,0 @@
-Listar la cantidad de files fit que hay en un directorio
-ls  -lR | grep -i fit | wc -l
-
